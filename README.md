@@ -1,3 +1,2 @@
-# hello-world
-normal repository
-read me edits changes
+# Projects
+contains OpenGL projects
